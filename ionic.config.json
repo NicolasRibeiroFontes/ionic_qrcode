@@ -1,5 +1,7 @@
 {
   "name": "ionic_qrcode",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
